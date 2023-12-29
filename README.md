@@ -2,8 +2,7 @@
 
 ## Data and Tools Used
 
-**Data**
-- Section Six Data Extract.xlsx (contains 1 fact table - fact_InternetSales and 4 dimension tables - dim_Product, dim_SalesTerritory, dim_Currency, dim_Customer)
+**Data** - Section Six Data Extract.xlsx (contains 1 fact table - fact_InternetSales and 4 dimension tables - dim_Product, dim_SalesTerritory, dim_Currency, dim_Customer)
 
 **Data Cleaning & Visualization** - Microsoft Power Query and PowerBI
 
