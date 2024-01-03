@@ -35,6 +35,7 @@
 
 ## Summary:
 
-All the tasks have been performed. All the measures are stored in a separate table (#Measures). Below is a snap of the final dashboard:
+Developed a dynamic sales data dashboard using Power BI, applying DAX, Power Query, and Power BI functionalities. Transformed raw sales data into insightful visualizations. Implemented DAX calculations for accurate performance metrics and leveraged Power Query for data shaping and transformation.
+All the measures are stored in a separate table (#Measures). Below is a snap of the final dashboard:
 
 ![image](https://github.com/mayur-789917/Sales-Dashboard-PowerBi/assets/154932494/a58e4e90-ebe7-454c-a149-3464d3df0500)
